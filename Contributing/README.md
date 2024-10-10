@@ -33,7 +33,7 @@ Welcome to the FarmRuler project! We appreciate your contributions. Please add y
 - **GitHub:** [GitHub Profile](https://github.com/jaysisharma)
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jaysi-sharma-36102825b/)
 - **Portfolio:** [Portfolio](https://www.jaysisharma.com.np)
-- **Info:** Enthusiastic about coding and open-source contributions.
+- **Info:** Enthusiastic about DevOps and Full-Stack Development and open-source contributions.
 
 ### ![Photo](https://example.com/photo.jpg)
 **Name:** [Jane Smith](https://github.com/janesmith)
