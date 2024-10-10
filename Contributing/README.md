@@ -27,6 +27,13 @@ Welcome to the FarmRuler project! We appreciate your contributions. Please add y
 ## Contributors List
 
  
+### ![Photo](https://avatars.githubusercontent.com/u/126240497?v=4)
+**Name:** [Jaysi Sharma](https://github.com/jaysisharma)
+
+- **GitHub:** [GitHub Profile](https://github.com/jaysisharma)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/jaysi-sharma-36102825b/)
+- **Portfolio:** [Portfolio](https://www.jaysisharma.com.np)
+- **Info:** Enthusiastic about coding and open-source contributions.
 
 ### ![Photo](https://example.com/photo.jpg)
 **Name:** [Jane Smith](https://github.com/janesmith)
